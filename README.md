@@ -1,2 +1,2 @@
-# EmployeeMS
-# EmployeeMS
+# Student Management System
+
