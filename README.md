@@ -1,5 +1,5 @@
 # Student Management System
-Spring Boot CRUD Web application for Student Management with Pagination and Sorting features
+Spring Boot CRUD Web application for Student Management with Pagination and Sorting features.
 
 ## Technologies: ThymeLeaf, Spring Data JPA, Hibernate, MySQL database.
 
